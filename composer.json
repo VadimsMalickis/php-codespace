@@ -6,10 +6,10 @@
     },
     "autoload": {
         "psr-4": {
-            "Vscode\\PhpCodespace\\": "src/"
+            "App\\": "src/"
         }
     },
     "scripts": {
-        "start": "sudo php -S 0.0.0.0:8000"
+        "start": "sudo php -S 0.0.0.0:8000 -t public/"
     }
 }
