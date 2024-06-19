@@ -1,0 +1,15 @@
+{
+    "name": "vscode/php-codespace",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "11.3.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vscode\\PhpCodespace\\": "src/"
+        }
+    },
+    "scripts": {
+        "start": "sudo php -S 0.0.0.0:8000"
+    }
+}

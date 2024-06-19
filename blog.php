@@ -4,6 +4,8 @@
 <body>
     <?php include "inc/navigation.php";?>
 
-    <p>Tas ir galvenā lapa.</p>
+    <p>Šeit būs mans blogs.</p>
+
+    <!-- paradīt bloga ierakstus no blog.csv failā -->
 </body>
 </html>
