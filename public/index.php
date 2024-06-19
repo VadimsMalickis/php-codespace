@@ -1,5 +1,5 @@
 <?php
-// Composer class autoloader
+// Composer class autoloader (Do not remove this code)
 require_once __DIR__ . '/../vendor/autoload.php';
 
 //Remove it later
